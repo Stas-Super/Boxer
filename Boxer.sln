@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxer", "Boxer.csproj", "{5236710D-37CE-44CD-B9B7-57CEEC4D5501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxer.DAL", "..\Boxer.DAL\Boxer.DAL.csproj", "{528F7A6B-9EC2-4C32-B7F6-E1D6A7668C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxer.BLL", "..\Boxer.BLL\Boxer.BLL.csproj", "{BB2F86F3-C44D-4413-B872-590C1F7B4620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5236710D-37CE-44CD-B9B7-57CEEC4D5501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5236710D-37CE-44CD-B9B7-57CEEC4D5501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5236710D-37CE-44CD-B9B7-57CEEC4D5501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5236710D-37CE-44CD-B9B7-57CEEC4D5501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528F7A6B-9EC2-4C32-B7F6-E1D6A7668C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528F7A6B-9EC2-4C32-B7F6-E1D6A7668C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528F7A6B-9EC2-4C32-B7F6-E1D6A7668C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528F7A6B-9EC2-4C32-B7F6-E1D6A7668C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2F86F3-C44D-4413-B872-590C1F7B4620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2F86F3-C44D-4413-B872-590C1F7B4620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2F86F3-C44D-4413-B872-590C1F7B4620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2F86F3-C44D-4413-B872-590C1F7B4620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDEC66D-FB47-475A-9D31-A44C9355328E}
+	EndGlobalSection
+EndGlobal
